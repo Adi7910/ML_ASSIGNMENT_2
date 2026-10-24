@@ -1,0 +1,4 @@
+Depth Setting,Max Depth,Number of Leaves,Mean Samples per Leaf,Fraction Single-Sample Leaves,Mean Pairwise Disagreement
+Shallow,2,3,80.0,0.0,0.9612
+Selected,None,40,6.0,0.0,0.8154
+Deep,16,17,14.1176,0.0,0.8874
